@@ -1,7 +1,8 @@
-This is a repository with script to perform the main analysis in the study on 
+This is a repository with scripts to perform the main analysis in the study on 
 mental rotation using 7T (Iamshchinina et al.,2021). 
-It contains four scripts where main_7T_IM.m script starts others. 
+It contains four scripts where main_7T_IM.m script starts the rest. 
 All the scripts contain short clarification of their main functionality.
+The data can be found: osf.io/3x9fk
 
 The following toolboxes are necessary: 
 
